@@ -1,0 +1,18 @@
+[project]
+name = "pocket-shots"
+version = "0.1.0"
+description = "Creates Analogue Pocket library image collections"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pillow>=11.1.0",
+    "ply>=3.11",
+    "tqdm>=4.67.1",
+]
+
+[project.scripts]
+pocket-shots = "pocket_shots:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

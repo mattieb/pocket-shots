@@ -1,0 +1,15 @@
+[submodule "libretro-thumbnails/Nintendo_-_Game_Boy"]
+	path = libretro-thumbnails/Nintendo_-_Game_Boy
+	url = https://github.com/libretro-thumbnails/Nintendo_-_Game_Boy.git
+[submodule "libretro-thumbnails/Nintendo_-_Game_Boy_Advance"]
+	path = libretro-thumbnails/Nintendo_-_Game_Boy_Advance
+	url = https://github.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance.git
+[submodule "libretro-thumbnails/Nintendo_-_Game_Boy_Color"]
+	path = libretro-thumbnails/Nintendo_-_Game_Boy_Color
+	url = https://github.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color.git
+[submodule "libretro-thumbnails/Sega_-_Game_Gear"]
+	path = libretro-thumbnails/Sega_-_Game_Gear
+	url = https://github.com/libretro-thumbnails/Sega_-_Game_Gear.git
+[submodule "libretro-database"]
+	path = libretro-database
+	url = https://github.com/libretro/libretro-database.git
