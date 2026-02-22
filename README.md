@@ -30,6 +30,10 @@ To build a Game Boy library of title screens:
 uv run pocket-shots GB Titles
 ```
 
+Put the resulting folder(s) on your Pocket's microSD card, in `/System/Library/Images`. Make any missing directories as necessary.
+
+You can install images over USB-C, but it'll be _way_ faster if you use a card reader.
+
 Valid platforms are:
 
 - `GB`: Game Boy and Game Boy Color
@@ -42,3 +46,8 @@ Valid image types are dependent on what is present in the platform's thumbnails 
 - `Logos`: logos
 - `Snaps`: game screenshots
 - `Titles`: game title screens
+
+## Further reading
+
+- [Analogue developer docs: Library](https://www.analogue.co/developer/docs/library)
+
